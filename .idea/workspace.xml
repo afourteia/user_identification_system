@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9521e210-f8af-4d3e-ad5b-ad609ebb666f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9521e210-f8af-4d3e-ad5b-ad609ebb666f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +63,6 @@
             <path>
               <item name="user_identification_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="user_identification_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user_identification_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user_identification_system" type="462c0819:PsiDirectoryNode" />
-              <item name="fingerpi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />

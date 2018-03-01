@@ -1,0 +1,3 @@
+[submodule "fingerpi"]
+	path = fingerpi
+	url = https://github.com/afourteia/fingerpi
